@@ -1,0 +1,10 @@
+C:\Users\LG\source\repos\IMAGE2ASCII\IMAGE2ASCII\bin\Debug\IMAGE2ASCII.exe.config
+C:\Users\LG\source\repos\IMAGE2ASCII\IMAGE2ASCII\bin\Debug\IMAGE2ASCII.exe
+C:\Users\LG\source\repos\IMAGE2ASCII\IMAGE2ASCII\bin\Debug\IMAGE2ASCII.pdb
+C:\Users\LG\source\repos\IMAGE2ASCII\IMAGE2ASCII\obj\Debug\IMAGE2ASCII.csprojAssemblyReference.cache
+C:\Users\LG\source\repos\IMAGE2ASCII\IMAGE2ASCII\obj\Debug\IMAGE2ASCII.Form1.resources
+C:\Users\LG\source\repos\IMAGE2ASCII\IMAGE2ASCII\obj\Debug\IMAGE2ASCII.Properties.Resources.resources
+C:\Users\LG\source\repos\IMAGE2ASCII\IMAGE2ASCII\obj\Debug\IMAGE2ASCII.csproj.GenerateResource.cache
+C:\Users\LG\source\repos\IMAGE2ASCII\IMAGE2ASCII\obj\Debug\IMAGE2ASCII.csproj.CoreCompileInputs.cache
+C:\Users\LG\source\repos\IMAGE2ASCII\IMAGE2ASCII\obj\Debug\IMAGE2ASCII.exe
+C:\Users\LG\source\repos\IMAGE2ASCII\IMAGE2ASCII\obj\Debug\IMAGE2ASCII.pdb
